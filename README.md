@@ -4,7 +4,20 @@ Space Math is a new educational program to discover **Space Equations** with the
 
 ![](docs/images/ti-84.png)
 
-## Modules
+## Structure
+
+The repository is organized in chapters
+
+- [Chapter 1](ch01/README.md): Hello World
+- [Chapter 2](ch02/README.md): Examples provided by TI
+- Chapter 3: Examples using ti_plotlib & ti_graphics
+- [Chapter 4](ch04/README.md): Examples using Turtle API
+
+![](docs/images/ch03_16.png)
+![](docs/images/ch03_17.png)
+![](docs/images/ch03_19.png)
+
+## TI Modules
 
 The calculator allow coding in Micropython and includes the following Python modules provided by TI:
 
@@ -18,25 +31,14 @@ The calculator allow coding in Micropython and includes the following Python mod
 
 - [ti_graphics](https://tiplanet.org/forum/viewtopic.php?t=23791&p=252807) Low level graphics module used by *ti_plotlib*
 
-## Structure
+## Third party modules
 
-The repository is organized in chapters
-
-- Chapter 1: Hello World
-- Chapter 2: Examples provided by TI
-- Chapter 3: Examples using ti_plotlib & ti_graphics
-- Chapter 4: Examples using Turtle API
-
-![](docs/images/ch03_16.png)
-![](docs/images/ch03_17.png)
-![](docs/images/ch03_19.png)
-
-## Modules
-
-- Turtle Module: https://resources.tistemprojects.com/tistemprojects-home?resource_id=3115&cHash=e13bea203ea4ca8b9f6dfacb519bf2be
+- [ce_turtl](https://resources.tistemprojects.com/tistemprojects-home?resource_id=3115&cHash=e13bea203ea4ca8b9f6dfacb519bf2be) Turtle Graphics module for TI-84 Plus CE-T Python Edition
 
 ## References
 
 - https://education.ti.com/html/webhelp/EG_TI84PlusCE-T/ES/content/eg_splash_page/ti-progpython.HTML
 - https://circuitpython.org/
+- https://en.wikipedia.org/wiki/Turtle_graphics
+- https://docs.python.org/3/library/turtle.html
 - https://spacemath.gsfc.nasa.gov/
