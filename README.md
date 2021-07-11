@@ -4,9 +4,9 @@ Space Math is a new educational program to discover **Space Equations** with the
 
 ![](docs/images/ti-84.png)
 
-## Structure
+## Repository structure
 
-The repository is organized in chapters
+The repository is organized in the chapters:
 
 - [Chapter 1](ch01/README.md): Hello World
 - [Chapter 2](ch02/README.md): Examples provided by TI
