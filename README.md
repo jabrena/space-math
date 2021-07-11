@@ -4,6 +4,8 @@ Space Math is a new educational program to discover **Space Equations** with the
 
 ![](docs/images/ti-84.png)
 
+## Modules
+
 The calculator allow coding in Micropython and includes the following Python modules provided by TI:
 
 - [ti_system](https://education.ti.com/html/webhelp/EG_TI84PlusCE-T/ES/content/eg_pythonappprog/m_pygetstart/m_84ce-t_pyobapp.HTML#time_mod): Recall OS list and OS regression equation in a Python program. Create lists in a Python program and store to OS list variables. List length limit is 100 elements.
@@ -15,6 +17,19 @@ The calculator allow coding in Micropython and includes the following Python mod
 ![](docs/images/module_ti_plotlib.jpg)
 
 - [ti_graphics](https://tiplanet.org/forum/viewtopic.php?t=23791&p=252807) Low level graphics module used by *ti_plotlib*
+
+## Structure
+
+The repository is organized in chapters
+
+- Chapter 1: Hello World
+- Chapter 2: Examples provided by TI
+- Chapter 3: Examples using ti_plotlib & ti_graphics
+- Chapter 4: Examples using Turtle API
+
+![](docs/images/ch03_16.png)
+![](docs/images/ch03_17.png)
+![](docs/images/ch03_19.png)
 
 ## References
 
