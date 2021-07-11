@@ -17,6 +17,10 @@ The repository is organized in the chapters:
 ![](docs/images/ch03_17.png)
 ![](docs/images/ch03_19.png)
 
+- Chapter 5: Examples using different Micropython features
+- Chapter 6: Solving some Euler problems
+- Chapter 7: Physics and Programming
+
 ## TI Modules
 
 The calculator allow coding in Micropython and includes the following Python modules provided by TI:
