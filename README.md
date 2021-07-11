@@ -57,3 +57,8 @@ The calculator allow coding in Micropython and includes the following Python mod
 - https://en.wikipedia.org/wiki/Turtle_graphics
 - https://docs.python.org/3/library/turtle.html
 - https://spacemath.gsfc.nasa.gov/
+
+## Forums
+
+- https://www.cemetech.net/forum/viewforum.php?f=45
+- https://tiplanet.org/forum/viewforum.php?f=116
