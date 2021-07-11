@@ -9,13 +9,24 @@ Space Math is a new educational program to discover **Space Equations** with the
 The repository is organized in the chapters:
 
 - [Chapter 1](ch01/README.md): Hello World
+
+![](docs/images/ch01_1.png)
+
 - [Chapter 2](ch02/README.md): Examples provided by TI
-- Chapter 3: Examples using ti_plotlib & ti_graphics
+
+![](docs/images/ch02_1.png)
+![](docs/images/ch02_2.png)
+![](docs/images/ch02_3.png)
+
+- [Chapter 3](ch02/README.md): Examples using ti_plotlib & ti_graphics
+
+![](docs/images/ch03_7.png)
+
 - [Chapter 4](ch04/README.md): Examples using Turtle API
 
-![](docs/images/ch03_16.png)
-![](docs/images/ch03_17.png)
-![](docs/images/ch03_19.png)
+![](docs/images/ch04_16.png)
+![](docs/images/ch04_17.png)
+![](docs/images/ch04_19.png)
 
 - Chapter 5: Examples using different Micropython features
 - Chapter 6: Solving some Euler problems
