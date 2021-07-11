@@ -1,7 +1,8 @@
 # Chapter 02
 
-- Learn to use the examples from the TI-84 documentation
+- Learn with the examples provided by TI some features included with the calculator.
+- Deploy multiple programs 
 
-## References
+## References
 
 - https://education.ti.com/html/webhelp/EG_TI84PlusCE-T/ES/content/eg_pythonappprog/m_pygetstart/m_samprog.HTML#COLORLIN

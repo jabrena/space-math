@@ -36,7 +36,7 @@ def plot(res,xmin,xmax):
 
         x+=dX
 
-        plt.show_plot()
+    plt.show_plot()
 
 #plot(resolution,xmin,xmax)
 plot(30,-1,1)
