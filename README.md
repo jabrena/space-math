@@ -31,6 +31,10 @@ The repository is organized in chapters
 ![](docs/images/ch03_17.png)
 ![](docs/images/ch03_19.png)
 
+## Modules
+
+- Turtle Module: https://resources.tistemprojects.com/tistemprojects-home?resource_id=3115&cHash=e13bea203ea4ca8b9f6dfacb519bf2be
+
 ## References
 
 - https://education.ti.com/html/webhelp/EG_TI84PlusCE-T/ES/content/eg_splash_page/ti-progpython.HTML
