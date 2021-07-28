@@ -20,7 +20,8 @@ The repository is organized in the chapters:
 
 - [Chapter 3](ch02/README.md): Examples using ti_plotlib & ti_graphics
 
-![](docs/images/ch03_7.png)
+![](docs/images/ch03_15.png)
+![](docs/images/ch03_16.png)
 
 - [Chapter 4](ch04/README.md): Examples using Turtle API
 
