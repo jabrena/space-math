@@ -3,3 +3,8 @@
 ```
 help("modules")
 ```
+
+## References
+
+- https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/Subsystems/EG_84SmartVCE_SW/Content/EG_84CE_SmartView/M_DataImport/DI_Data_Import_Files.HTML
+
