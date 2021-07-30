@@ -22,6 +22,7 @@ The repository is organized in the chapters:
 
 ![](docs/images/ch03_15.png)
 ![](docs/images/ch03_16.png)
+![](docs/images/ch03_solar.png)
 
 - [Chapter 4](ch04/README.md): Examples using Turtle API
 
