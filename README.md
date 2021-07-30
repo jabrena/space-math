@@ -18,9 +18,8 @@ The repository is organized in the chapters:
 ![](docs/images/ch02_2.png)
 ![](docs/images/ch02_3.png)
 
-- [Chapter 3](ch03/README.md): Examples using different Micropython features
-- Chapter 4: Solving some Euler problems
-
+- [Chapter 3](ch03/README.md): Examples using different Micro Python features
+- [Chapter 4](ch04/README.md): Euler problems
 - [Chapter 5](ch05/README.md): Examples using ti_plotlib & ti_graphics
 
 ![](docs/images/ch03_15.png)
@@ -60,6 +59,7 @@ The calculator allow coding in Micropython and includes the following Python mod
 - https://en.wikipedia.org/wiki/Turtle_graphics
 - https://docs.python.org/3/library/turtle.html
 - https://spacemath.gsfc.nasa.gov/
+- https://replit.com/languages/python3
 
 ## Forums
 
