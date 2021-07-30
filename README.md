@@ -18,20 +18,21 @@ The repository is organized in the chapters:
 ![](docs/images/ch02_2.png)
 ![](docs/images/ch02_3.png)
 
-- [Chapter 3](ch02/README.md): Examples using ti_plotlib & ti_graphics
+- [Chapter 3](ch03/README.md): Examples using different Micropython features
+- Chapter 4: Solving some Euler problems
+
+- [Chapter 5](ch05/README.md): Examples using ti_plotlib & ti_graphics
 
 ![](docs/images/ch03_15.png)
 ![](docs/images/ch03_16.png)
 ![](docs/images/ch03_solar.png)
 
-- [Chapter 4](ch04/README.md): Examples using Turtle API
+- [Chapter 6](ch06/README.md): Examples using Turtle API
 
 ![](docs/images/ch04_16.png)
 ![](docs/images/ch04_17.png)
 ![](docs/images/ch04_19.png)
 
-- Chapter 5: Examples using different Micropython features
-- Chapter 6: Solving some Euler problems
 - Chapter 7: Physics and Programming
 
 ## TI Modules

@@ -1,5 +1,7 @@
 # Chapter 02
 
+## Learning Goals
+
 - Learn with the examples provided by TI some features included with the calculator.
 - Deploy multiple programs 
 
