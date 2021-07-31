@@ -8,35 +8,35 @@ Space Math is a new educational program to discover **Space Equations** with the
 
 The repository is organized in the chapters:
 
-- [Chapter 1](ch01/README.md): Hello World
+- [Chapter 1](ch01/): Hello World
 
 ![](docs/images/ch01_1.png)
 
-- [Chapter 2](ch02/README.md): First steps
+- [Chapter 2](ch02/): First steps
 
 ![](docs/images/ch02_1.png)
 ![](docs/images/ch02_2.png)
 ![](docs/images/ch02_3.png)
 
-- [Chapter 3](ch03/README.md): Learning Micro Python
-- [Chapter 4](ch04/README.md): Solving Euler problems
-- [Chapter 5](ch05/README.md): Solving Maths problems
-- [Chapter 6](ch06/README.md): Learning how to use *ti_plotlib* & *ti_graphics* modules
+- [Chapter 3](ch03/): Learning Micro Python
+- [Chapter 4](ch04/): Solving Euler problems
+- [Chapter 5](ch05/): Solving Maths problems
+- [Chapter 6](ch06/): Learning how to use *ti_plotlib* & *ti_graphics* modules
 
 ![](docs/images/ch03_15.png)
 ![](docs/images/ch03_16.png)
 ![](docs/images/ch03_solar.png)
 
-- [Chapter 7](ch07/README.md): Learning *turtle* module
+- [Chapter 7](ch07/README.md): Learning how to use *ce_turtl* module
 
 ![](docs/images/ch04_16.png)
 ![](docs/images/ch04_17.png)
 ![](docs/images/ch04_19.png)
 
-- [Chapter 8](ch08/README.md): Great Physics in the history
-- [Chapter 9](ch09/README.md): Branches of physics
-- [Chapter 10](ch10/README.md): Physical cosmology
-- [Chapter 11](ch11/README.md): Orbital mechanics
+- [Chapter 8](ch08/): Great Physics in the history
+- [Chapter 9](ch09/): Branches of physics
+- [Chapter 10](ch10/): Physical cosmology
+- [Chapter 11](ch11/): Orbital mechanics
 
 ## TI Modules
 

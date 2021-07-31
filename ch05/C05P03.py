@@ -28,3 +28,9 @@ iterations = 10000
 print(pi)
 print(problem(iterations))
 print(pi - problem(iterations))
+
+# Links
+# https://javapapers.com/java/java-puzzle-floating-point-precision/
+# https://docs.python.org/3/tutorial/floatingpoint.html
+# https://www.geeksforgeeks.org/floating-point-error-in-python/
+# https://stackoverflow.com/questions/19473770/how-to-avoid-floating-point-errors
