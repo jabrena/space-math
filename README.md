@@ -10,13 +10,13 @@ The repository is organized in the chapters:
 
 - [Chapter 1](ch01/): Hello World
 
-![](docs/images/ch01_1.png)
+[![](docs/images/ch01_1.png)](ch01/C01E01.py)
 
 - [Chapter 2](ch02/): First steps
 
-![](docs/images/ch02_1.png)
-![](docs/images/ch02_2.png)
-![](docs/images/ch02_3.png)
+[![](docs/images/ch02_1.png)](ch02/COLORLIN.py)
+[![](docs/images/ch02_2.png)](ch02/GRAPH.py)
+[![](docs/images/ch02_3.png)](ch02/LINREGR.py)
 
 - [Chapter 3](ch03/): Learning Micro Python
 - [Chapter 4](ch04/): Solving Euler problems
