@@ -20,22 +20,23 @@ The repository is organized in the chapters:
 
 - [Chapter 3](ch03/README.md): Learning Micro Python
 - [Chapter 4](ch04/README.md): Solving Euler problems
-- [Chapter 5](ch05/README.md): Learning to use visual libraries like ti_plotlib & ti_graphics
+- [Chapter 5](ch05/README.md): Solving Maths problems
+- [Chapter 6](ch06/README.md): Learning how to use *ti_plotlib* & *ti_graphics* modules
 
 ![](docs/images/ch03_15.png)
 ![](docs/images/ch03_16.png)
 ![](docs/images/ch03_solar.png)
 
-- [Chapter 6](ch06/README.md): Learning Turtle API
+- [Chapter 7](ch07/README.md): Learning *turtle* module
 
 ![](docs/images/ch04_16.png)
 ![](docs/images/ch04_17.png)
 ![](docs/images/ch04_19.png)
 
-- [Chapter 7](ch07/README.md): Great Physics in the history
-- [Chapter 8](ch08/README.md): Branches of physics
-- [Chapter 9](ch09/README.md): Physical cosmology
-- [Chapter 10](ch10/README.md): Orbital mechanics
+- [Chapter 8](ch08/README.md): Great Physics in the history
+- [Chapter 9](ch09/README.md): Branches of physics
+- [Chapter 10](ch10/README.md): Physical cosmology
+- [Chapter 11](ch11/README.md): Orbital mechanics
 
 ## TI Modules
 
