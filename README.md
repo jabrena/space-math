@@ -27,7 +27,7 @@ The repository is organized in the chapters:
 ![](docs/images/ch03_16.png)
 ![](docs/images/ch03_solar.png)
 
-- [Chapter 7](ch07/README.md): Learning how to use *ce_turtl* module
+- [Chapter 7](ch07/): Learning how to use *ce_turtl* module
 
 ![](docs/images/ch04_16.png)
 ![](docs/images/ch04_17.png)
