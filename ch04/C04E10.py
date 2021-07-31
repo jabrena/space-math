@@ -36,4 +36,4 @@ def problem(limit) :
 # Asserts
 print(getPrimeList(10) == list((2, 3, 5, 7)))
 print(problem(10) == 17)
-#print(problem(2000000) == 142913828922) #Computational issues for TI-84
+#print(problem(2000000) == 142913828922) #Verified #Computational issues for TI-84
