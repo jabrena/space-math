@@ -1,4 +1,4 @@
-from ti_system import *
+from ti_system import disp_wait
 import ti_graphics as scr
 
 # Screen parameters TI-84 Plus
@@ -51,6 +51,7 @@ def fillCircle(x, y, r):
 EARH_ORBITAL_ECCENTRICITY = 0.01671 
 
 scr.cls()
+scr.setPen(0, 0)
 
 scr.setColor(SUN_COLOR)
 fillCircle(xmax / 2, ymax / 2, SCR_SMALL_PLANET)

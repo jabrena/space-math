@@ -2,7 +2,7 @@
 
 # https://en.wikipedia.org/wiki/Astronomical_unit
 
-from ti_system import *
+from ti_system import disp_wait
 import ti_graphics as scr
 
 # Screen parameters TI-84 Plus
