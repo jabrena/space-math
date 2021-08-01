@@ -1,8 +1,8 @@
 # Space Math
 
-Space Math is a new educational program to discover **Space Equations** with the Scientific Calculator [TI-84 Plus CE-T Python Edition](https://education.ti.com/en-gb/products/calculators/graphing-calculators/ti-84-plus-ce-t-python)
+Space Math is a new educational program to discover **Space Equations** with the Scientific Calculator [TI-84 Plus CE-T Python Edition](https://education.ti.com/en-gb/products/calculators/graphing-calculators/ti-84-plus-ce-t-python) & [Numworks N0110](https://www.numworks.com/)
 
-![](docs/images/ti-84.png)
+![](docs/images/idea.jpg)
 
 ## Repository structure
 
