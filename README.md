@@ -38,10 +38,14 @@ The repository is organized in the chapters:
 ![](docs/images/ch04_17.png)
 ![](docs/images/ch04_19.png)
 
-- [Chapter 8](ch08/): Great Physics in the history
-- [Chapter 9](ch09/): Branches of physics
-- [Chapter 10](ch10/): Physical cosmology
-- [Chapter 11](ch11/): Orbital mechanics
+- [Chapter 8](ch08/): Analyzing data from Excel
+
+[![](docs/images/ch08_1.png)](ch08/C08E01.py)
+
+- [Chapter 9](ch09/): Great Physics in the history
+- [Chapter 10](ch10/): Branches of physics
+- [Chapter 11](ch11/): Physical cosmology
+- [Chapter 12](ch12/): Orbital mechanics
 
 ## TI Modules
 
