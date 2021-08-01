@@ -42,6 +42,10 @@ The repository is organized in the chapters:
 
 The calculator allow coding in Micropython and includes the following Python modules provided by TI:
 
+- [math](https://education.ti.com/html/webhelp/EG_TI84PlusCE-T/ES/content/eg_pythonappprog/m_pygetstart/m_84ce-t_pyobapp.HTML#math_mod): Math operations.
+
+![](docs/images/module_math.jpg)
+
 - [ti_system](https://education.ti.com/html/webhelp/EG_TI84PlusCE-T/ES/content/eg_pythonappprog/m_pygetstart/m_84ce-t_pyobapp.HTML#time_mod): Recall OS list and OS regression equation in a Python program. Create lists in a Python program and store to OS list variables. List length limit is 100 elements.
 
 ![](docs/images/module_ti_system.jpg)
