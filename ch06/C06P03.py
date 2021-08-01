@@ -7,22 +7,24 @@
 
 from math import *
 
-def problem(iterations) :
+
+def problem(iterations):
 
     pi = 1
 
-    for x in range(0, iterations) :
+    for x in range(0, iterations):
 
         den = (x * 2 + 3)
-        if (x % 2 == 0) :
+        if (x % 2 == 0):
             pi -= (float(1) / float(den))
-        else :
+        else:
             pi += (float(1) / float(den))
 
     pi *= 4
     return pi
 
 # Asserts
+
 
 iterations = 10000
 print(pi)

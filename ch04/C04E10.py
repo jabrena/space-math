@@ -12,15 +12,16 @@
 
 from sys import *
 
-def getPrimeList(limit) :
+
+def getPrimeList(limit):
 
     primeList = []
-    for num in range(2, limit) :
-        for i in range(2, num) :
-            if (num % i == 0) :
+    for num in range(2, limit):
+        for i in range(2, num):
+            if (num % i == 0):
                 break
         else:
-            if (num > limit) :
+            if (num > limit):
                 break
             print(num)
             primeList.append(num)
@@ -29,11 +30,12 @@ def getPrimeList(limit) :
     return primeList
 
 
-def problem(limit) :
-    
+def problem(limit):
+
     return sum(getPrimeList(limit))
+
 
 # Asserts
 print(getPrimeList(10) == list((2, 3, 5, 7)))
 print(problem(10) == 17)
-#print(problem(2000000) == 142913828922) #Verified #Computational issues for TI-84
+# print(problem(2000000) == 142913828922) #Verified #Computational issues for TI-84

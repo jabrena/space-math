@@ -12,28 +12,31 @@
 
 from sys import *
 
-def getPrimeList(limit) :
+
+def getPrimeList(limit):
 
     primeList = []
-    for num in range(2, maxsize) :
+    for num in range(2, maxsize):
 
-        if (len(primeList) == limit) :
+        if (len(primeList) == limit):
             break
 
-        for i in range(2, num) :
-            if (num % i == 0) :
+        for i in range(2, num):
+            if (num % i == 0):
                 break
         else:
             primeList.append(num)
-    
+
     return primeList
 
-def problem(limit) :
-    
+
+def problem(limit):
+
     primerList = getPrimeList(limit)
-    
+
     return max(primerList)
 
+
 # Asserts
-print(problem(6) == max((2,3,5,7,11,13)))
-#print(problem(10001) == 104743) #Computational issues for TI-84
+print(problem(6) == max((2, 3, 5, 7, 11, 13)))
+# print(problem(10001) == 104743) #Computational issues for TI-84

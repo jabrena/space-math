@@ -19,6 +19,7 @@ def problem(n):
             n //= i
     return n
 
+
 # Asserts
 print(problem(13195) == 29)
 print(problem(600851475143) == 6857)
