@@ -20,25 +20,28 @@
 
 # Solution
 
-def squareSum(limit) :
-    
+def squareSum(limit):
+
     listSquared = []
-    for x in range(1, limit + 1) :
+    for x in range(1, limit + 1):
         listSquared.append(x ** 2)
 
     return sum(listSquared)
 
-def sumSquare(limit) :
-    
+
+def sumSquare(limit):
+
     listSquared = []
-    for x in range(1, limit + 1) :
+    for x in range(1, limit + 1):
         listSquared.append(x)
 
     return sum(listSquared) ** 2
 
-def problem(limit) : 
+
+def problem(limit):
 
     return sumSquare(limit) - squareSum(limit)
+
 
 # Asserts
 print(squareSum(10) == 385)

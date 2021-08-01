@@ -2,20 +2,20 @@
 
 var1 = 5
 
-#Block if
-if var1 >= 5 :
+# Block if
+if var1 >= 5:
     print("Passed")
 
-#Block if else
-if var1 % 2 == 0 :
+# Block if else
+if var1 % 2 == 0:
     print("Even")
-else :
+else:
     print("Odd")
 
-#Block if elif else
-if var1 == 0 :
+# Block if elif else
+if var1 == 0:
     print("Disaster")
-elif var1 >= 5 :
+elif var1 >= 5:
     print("Passed")
-else :
+else:
     print("Unknown state")

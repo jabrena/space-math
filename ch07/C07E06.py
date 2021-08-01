@@ -5,7 +5,7 @@ turtle.penup()
 
 for a in range(40, -1, -1):
     turtle.pendown()
-    #turtle.stamp()
+    # turtle.stamp()
     turtle.left(a)
     turtle.forward(20)
 

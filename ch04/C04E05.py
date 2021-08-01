@@ -13,11 +13,11 @@
 #list = []
 #true_list = [11.0, 12.0, 13.0, 14.0, 16.0, 17.0, 18.0, 19.0, 20.0]
 #b = 1
-#def test():
+# def test():
 #     for n in true_list:
 #        if x % n == 0:
 #            list.append(n)
-#while b == 1:
+# while b == 1:
 #    test()
 #    if list == true_list:
 #        b = 2

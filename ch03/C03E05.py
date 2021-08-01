@@ -10,9 +10,9 @@ sleep(1)
 
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
-  if x == "banana":
-    break
-  print(x)
+    if x == "banana":
+        break
+    print(x)
 
 sleep(1)
 
