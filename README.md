@@ -21,6 +21,11 @@ The repository is organized in the chapters:
 - [Chapter 3](ch03/): Learning Micro Python
 - [Chapter 4](ch04/): Solving Euler problems
 - [Chapter 5](ch05/): Solving Maths problems
+
+[![](docs/images/ch05_1.png)](ch05/C05P04G.py)
+[![](docs/images/ch05_2.png)](ch05/C05P04.py)
+[![](docs/images/ch05_3.png)](ch05/C05P04.py)
+
 - [Chapter 6](ch06/): Learning how to use *ti_plotlib* & *ti_graphics* modules
 
 ![](docs/images/ch03_15.png)
