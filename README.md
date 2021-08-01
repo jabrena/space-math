@@ -66,3 +66,8 @@ The repository is organized in the chapters:
 
 - https://www.cemetech.net/forum/viewforum.php?f=45
 - https://tiplanet.org/forum/viewforum.php?f=116
+
+
+## Other links
+
+- https://my.numworks.com/python/jabrena
