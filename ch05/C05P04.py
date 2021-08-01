@@ -26,11 +26,9 @@ def problem (iterations) :
 
     radius = 1.0
     counter = 0
-    pointList = list()
     for i in range(0, iterations) :
 
         point = getPoint()
-        pointList.append(point)
         if isPointInside(point, radius) :
             counter += 1
     
@@ -40,7 +38,9 @@ def problem (iterations) :
 
 # Asserts
 print(getPoint())
-iterations = 10000000
+iterations = int(input("Number of iterations?"))
+print(iterations)
 print(m.pi)
-print(problem(iterations))
-print(m.pi - problem(iterations))
+result = problem(iterations)
+print(result)
+print(m.pi - result)
