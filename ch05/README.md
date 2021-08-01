@@ -1,5 +1,12 @@
-# Programming Maths
+# Using ti_plotlib & ti_graphics
+
+```
+help("modules")
+```
 
 ## References
 
-- https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH&ab_channel=TheCodingTrain
+- https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/Subsystems/EG_84SmartVCE_SW/Content/EG_84CE_SmartView/M_DataImport/DI_Data_Import_Files.HTML
+- https://tiplanet.org/forum/archives_voir.php?id=2653047
+
+

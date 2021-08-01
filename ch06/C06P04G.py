@@ -4,11 +4,11 @@
 import random as r
 import math as m
 
-try:
+try :
     import ti_plotlib as plt
 
     ti84_platform = True
-except:
+except :
     ti84_platform = False
 
 if not ti84_platform :
