@@ -1,4 +1,4 @@
-![](docs/images/idea.jpg)
+![Space Math](docs/images/idea.jpg)
 
 # Space Math
 
