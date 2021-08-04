@@ -6,5 +6,8 @@
 print("Hello World")
 
 # Block of comments
-# Line 2
-# Line 3
+'''
+Line 1
+Line 2
+Line 3
+'''
