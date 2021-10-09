@@ -1,34 +1,8 @@
 # October 2021
 
-## Prerequsites:
-
-### OSX
-
-- https://brew.sh/
-- https://docs.python-guide.org/starting/install3/osx/
-
-```
-brew install python
-```
-
-### Windows
-
-- https://chocolatey.org/install
-- https://community.chocolatey.org/packages/python/3.10.0
-
-```
-choco install python
-```
-
-### Test installation
-
-```
-python --version
-```
-
 ## 13/10/2021
 
-- Proyecto Cientifico
+- Proyecto Científico
 - Tecnologia: Conceptos
 - Programación: Micro Python
 
