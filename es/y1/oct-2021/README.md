@@ -16,6 +16,14 @@ Tienes 3 años para montar un prototipo.
 
 ### Programación: Micro Python
 
+**Introducción a la programación:**
+
+- https://www.youtube.com/watch?v=GyychYJh7yo&ab_channel=Generaci%C3%B3nCode
+
+**Micro Python:**
+
+Puntos a tratar:
+
 - Hello World
 - Data Types
 - Comments
