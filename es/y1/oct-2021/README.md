@@ -49,3 +49,74 @@ Puntos a tratar:
 - Import
 
 **Problemas de programación**
+
+## 20/10/2021
+
+- Proyecto Científico II
+- Fisica: Modelo de Ptolomeo
+- Programación: Micro Python II
+
+### Proyecto Cientifico
+
+### Fisica: Sistema Solar
+
+- ¿Que Sabes del sistema solar?
+- ¿A que distancia estan los distintos planetas con respecto al Sol?
+
+1 UA es igual a cerca de 150 millones de km
+
+```
+Planeta	    Distancia Promedio desde el Sol (UA)
+Mercurio	0.39
+Venus	    0.72
+Tierra	    1.00
+Marte	    1.52
+Júpiter	    5.20
+Saturno	    9.54
+Urano	    19.22
+Neptuno	    30.06
+```
+
+- ¿Que pensaba Ptolomeo con respecto al Universo?
+
+https://es.wikipedia.org/wiki/Teor%C3%ADa_geoc%C3%A9ntrica
+
+85 AC
+
+La teoría geocéntrica (también llamada modelo geocéntrico, geocentrismo o modelo ptolemaico) es una teoría astronómica que sitúa a la Tierra en el centro del universo, y a los astros, incluido el Sol, girando alrededor de la Tierra (geo: Tierra; centrismo: agrupado o de centro).
+
+- ¿Cual es el modelo de Nicolás Copérnico?
+
+### Programación: Micro Python
+
+**Introducción a la programación:**
+
+**Micro Python II:**
+
+Puntos a tratar:
+
+- Data Types
+- Comments
+- Bifurcation
+- Iteration
+- Functions
+- Classes
+- Import
+
+### Challenges Pendientes
+
+- Escribe un programa que pinte en pantalla todos los miembros de tu familia.
+
+### Challenges
+
+- Escribe un programa que si le pasas las edades de los miembros de tu familia, diga si es mayor de edad o no
+- Escribe un programa que pinte los miembros de tu familia en pantalla, pero empleando una estructura de datos como un Vector.
+- Escribe la tabla de multiplicar del 5
+
+### Comandos de Linux
+
+- cd
+- ls
+- python
+- cat 
+
