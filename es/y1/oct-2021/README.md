@@ -120,3 +120,39 @@ Puntos a tratar:
 - python
 - cat 
 
+## 27/10/2021
+
+- Proyecto Científico III
+- Fisica: Nicolas Copernico
+- Programación: Micro Python III
+
+### Proyecto Cientifico
+
+### Fisica: Nicolas Copernico
+
+- ¿Cual fue la innovacion de Galileo?
+
+Copérnico está considerado como el precursor de la astronomía moderna, aportando las bases que permitieron a Newton culminar la revolución astronómica, al pasar de un universo geocéntrico a un cosmos heliocéntrico y cambiando irreversiblemente la mirada del cosmos que había prevalecido hasta entonces.
+
+https://es.wikipedia.org/wiki/Nicol%C3%A1s_Cop%C3%A9rnico
+
+![](CopernicSystem.png)
+
+### Programación: Micro Python
+
+**Introducción a la programación:**
+
+**Micro Python II:**
+
+- Comments
+- Bifurcation
+- Iteration
+- Functions
+- Classes
+- Import
+
+### Challenges
+
+- Escribe un programa que si le pasas las edades de los miembros de tu familia, diga si es mayor de edad o no
+- Escribe un programa que pinte los miembros de tu familia en pantalla, pero empleando una estructura de datos como un Vector.
+- Escribe la tabla de multiplicar del 5
