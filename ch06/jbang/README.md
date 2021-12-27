@@ -16,6 +16,10 @@ jbang Problem20211227.java
 
 ![](20211224.png)
 
+```
+jbang Problem20211224.java
+```
+
 ## How to install Jbang?
 
 ```
