@@ -1,5 +1,7 @@
 package ch06.jbang;
 
+import java.util.function.Function;
+import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
@@ -7,26 +9,25 @@ import java.util.stream.IntStream;
  */
 public class Problem20211224 {
 
-    private static String baseConversion(String number, int sBase, int dBase) {
-        // Parse the number with source radix
-        // and return in specified radix(base)
-        return Integer.toString(
-            Integer.parseInt(number, sBase), dBase);
-    }
-
     public static void main(String[] args) {
-        
+
+        Function<Integer, String> baseConversion = (number) -> {
+            // Parse the number with source radix
+            // and return in specified radix(base)
+            final int sBase = 10;
+            final int dBase = 5;
+            return Integer.toString(
+                Integer.parseInt(String.valueOf(number), sBase), dBase);
+        };
+
         var iterations = 1000;
         var digitLimit = 2;
 
-        IntStream.range(1, iterations).boxed()
-            .map(String::valueOf)
-            .map(n -> {
-                var result = baseConversion(n, 10, 5);
-                System.out.println(n + " " + result);
-                return result;
-            })
+        var resultList = IntStream.range(1, iterations).boxed()
+            .map(baseConversion)
             .takeWhile((s) -> s.length() <= digitLimit)
-            .forEach(System.out::println);
+            .collect(Collectors.toUnmodifiableList());
+
+        System.out.print("Result: " + resultList.get(resultList.size() - 1));
     }
 }
