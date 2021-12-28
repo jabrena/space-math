@@ -1,0 +1,4 @@
+tasks:
+  - before: sdk env
+image:
+  file: .gitpod.Dockerfile
