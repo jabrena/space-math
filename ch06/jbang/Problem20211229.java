@@ -9,7 +9,6 @@ import java.util.function.Function;
 import java.util.stream.IntStream;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.assertj.core.api.Assertions.within;
 
 public class Problem20211229 {
 
@@ -32,3 +31,4 @@ public class Problem20211229 {
         assertThat(result.doubleValue()).as("Result is: ").isEqualTo(29);
     }
 }
+
