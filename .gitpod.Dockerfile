@@ -14,3 +14,6 @@ RUN bash -c ". /home/gitpod/.sdkman/bin/sdkman-init.sh && sdk install java 17.0.
 
 # Install jbang
 RUN bash -c ". /home/gitpod/.sdkman/bin/sdkman-init.sh && sdk install jbang"
+
+RUN bash -c ". python -m pip install -U pip"
+RUN bash -c ". python -m pip install -U matplotlib"

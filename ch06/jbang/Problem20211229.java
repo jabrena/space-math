@@ -29,6 +29,10 @@ public class Problem20211229 {
         var result = component1.multiply(component2).multiply(component3);
 
         assertThat(result.doubleValue()).as("Result is: ").isEqualTo(29);
+
+        //assertThat(result)
+        //    .usingComparator(BigDecimal::compareTo)
+        //    .isEqualTo(BigDecimal.valueOf(29));
     }
 }
 
