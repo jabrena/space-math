@@ -2,3 +2,7 @@ tasks:
   - before: sdk env
 image:
   file: .gitpod.Dockerfile
+vscode:
+  extensions:
+    - asciidoctor.asciidoctor-vscode
+    - vscjava.vscode-java-pack

@@ -6,7 +6,12 @@ In this folder, I will try to solve Math problems from:
 
 ## 2021/12/29
 
-![](20211229.png)
+image:20211229.png[ScreenShot]
+
+[source,java]
+----
+include::Problem20211229.java[]
+----
 
 ```
 jbang Problem20211229.java
