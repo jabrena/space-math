@@ -4,6 +4,7 @@
 package ch06.jbang;
 
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.util.function.Function;
 import java.util.stream.IntStream;
 
@@ -16,13 +17,17 @@ public class Problem20211229 {
         Function<Long, BigDecimal> factorial = limit -> IntStream.iterate(limit.intValue(), i -> i - 1)
                 .limit(limit)
                 .mapToObj(BigDecimal::valueOf)
-                .reduce((n1, n2) -> n1.multiply(n2)).get();
+                .reduce((n1, n2) -> n1.multiply(n2))
+                .get();
 
-        Double component1 = factorial.apply(11L).doubleValue() / factorial.apply(22L).doubleValue();
-        Double component2 = factorial.apply(21L).doubleValue() / factorial.apply(10L).doubleValue();
-        Double component3 = Double.valueOf(58);
-        Double result = component1 * component2 * component3;
+        var precision = 20;
+        var roundingMode = RoundingMode.HALF_UP;
+        
+        var component1 = factorial.apply(11L).divide(factorial.apply(22L), precision, roundingMode);
+        var component2 = factorial.apply(21L).divide(factorial.apply(10L), precision, roundingMode);
+        var component3 = BigDecimal.valueOf(58);
+        var result = component1.multiply(component2).multiply(component3).setScale(0, roundingMode);
 
-        assertThat(result).as("Result is: ").isEqualTo(29);
+        assertThat(result).as("Result is: ").isEqualTo(BigDecimal.valueOf(29));
     }
 }
