@@ -9,6 +9,7 @@ import java.util.function.Function;
 import java.util.stream.IntStream;
 
 import static org.assertj.core.api.Assertions.assertThat;
+import static org.assertj.core.api.Assertions.within;
 
 public class Problem20211229 {
 
@@ -29,10 +30,9 @@ public class Problem20211229 {
         var result = component1.multiply(component2).multiply(component3);
 
         assertThat(result.doubleValue()).as("Result is: ").isEqualTo(29);
-
-        //assertThat(result)
-        //    .usingComparator(BigDecimal::compareTo)
-        //    .isEqualTo(BigDecimal.valueOf(29));
+        assertThat(result)
+            .usingComparator(BigDecimal::compareTo)
+            .isCloseTo(BigDecimal.valueOf(29), within(BigDecimal.valueOf(0.000000001)));
     }
 }
 
