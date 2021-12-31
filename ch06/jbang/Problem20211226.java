@@ -14,12 +14,7 @@ public class Problem20211226 {
                 .noneMatch(i -> number % i == 0);
         };
 
-        Predicate<Integer> isOdd = number -> {
-            if (number % 2 == 0 ) {
-                return false;
-            }
-            return true;
-        };
+        Predicate<Integer> isOdd = number -> (number % 2 == 0 ) ? false : true;
         
         var result = Stream.iterate(1, i -> i + 1) //Infinite Stream
             .skip(1) //1 is not a prime number
