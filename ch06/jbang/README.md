@@ -4,6 +4,16 @@ In this folder, I will try to solve Math problems from:
 
 - https://twitter.com/GWOMaths
 
+## 2022/01/01
+
+![](20220101.png)
+
+```
+jbang Problem20211231.java
+```
+
+---
+
 ## 2021/12/31
 
 ![](20211231.png)
