@@ -13,8 +13,6 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-import javax.print.attribute.standard.RequestingUserName;
-
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class Problem20220102 {
