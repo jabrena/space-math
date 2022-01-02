@@ -4,12 +4,20 @@ In this folder, I will try to solve Math problems from:
 
 - https://twitter.com/GWOMaths
 
+## 2022/01/02
+
+![](20220102.png)
+
+```
+jbang Problem20220102.java
+```
+
 ## 2022/01/01
 
 ![](20220101.png)
 
 ```
-jbang Problem20211231.java
+jbang Problem20220101.java
 ```
 
 ---

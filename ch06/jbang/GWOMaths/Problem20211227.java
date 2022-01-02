@@ -1,4 +1,4 @@
-package ch06.jbang;
+package ch06.jbang.GWOMaths;
 
 import java.math.BigDecimal;
 import java.math.MathContext;

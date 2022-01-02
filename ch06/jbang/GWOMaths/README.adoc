@@ -1,0 +1,15 @@
+# Daily Math
+
+In this folder, I will try to solve Math problems from:
+
+- https://twitter.com/GWOMaths
+
+## 2021/12/29
+
+image:20211229.png[ScreenShot]
+
+[Problem20211229.java,java]
+----
+
+----
+

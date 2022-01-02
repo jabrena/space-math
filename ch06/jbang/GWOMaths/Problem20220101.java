@@ -1,7 +1,7 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //DEPS org.assertj:assertj-core:3.21.0
 
-package ch06.jbang;
+package ch06.jbang.GWOMaths;
 
 import java.math.MathContext;
 import java.math.BigDecimal;
