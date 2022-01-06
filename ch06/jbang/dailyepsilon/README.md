@@ -4,12 +4,12 @@ In this folder, I will try to solve Math problems from:
 
 - https://twitter.com/Daily_Epsilon
 
-## 2022/01/02
+## 2022/01/06
 
 ![](20220106.png)
 
 ```
-jbang Problem20220102.java
+jbang Problem20220106.java
 ```
 
 ## 2022/01/02
