@@ -1,4 +1,4 @@
-package ch06.jbang.GWOMaths;
+package ch06.jbang.dailyepsilon;
 
 public class HelloWorld {
     public static void main(String[] args) {

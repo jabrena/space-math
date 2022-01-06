@@ -1,4 +1,4 @@
-package ch06.jbang.GWOMaths;
+package ch06.jbang.dailyepsilon;
 
 import java.util.function.Function;
 import java.util.stream.Collectors;

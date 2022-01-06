@@ -1,4 +1,4 @@
-package ch06.jbang.GWOMaths;
+package ch06.jbang.dailyepsilon;
 
 import java.math.BigDecimal;
 import java.math.MathContext;

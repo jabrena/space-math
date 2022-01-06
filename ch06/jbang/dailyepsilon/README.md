@@ -1,8 +1,16 @@
-# Daily Math
+# Daily_Epsilon
 
 In this folder, I will try to solve Math problems from:
 
-- https://twitter.com/GWOMaths
+- https://twitter.com/Daily_Epsilon
+
+## 2022/01/02
+
+![](20220106.png)
+
+```
+jbang Problem20220102.java
+```
 
 ## 2022/01/02
 
