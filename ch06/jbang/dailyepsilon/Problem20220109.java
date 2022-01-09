@@ -22,12 +22,7 @@ public class Problem20220109 {
 
         Predicate<Integer> isDivisible_1_to_20 = number -> {
             var counter = IntStream.rangeClosed(1, 20).boxed()
-                .map(n -> {
-                    if (number % n == 0) {
-                        return 1;
-                    }
-                    return 0;
-                })
+                .map(n -> (number % n == 0) ? 1 : 0)
                 .reduce(0, Integer::sum);
             
             return (counter == 20) ? true : false;
