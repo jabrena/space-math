@@ -43,7 +43,7 @@ public class Problem20220109 {
                 .orElseThrow();
         };
 
-        //Protect computatation against infinite scenarios with Timeout support
+        //Protect computation against infinite scenarios with Timeout support
         Supplier<Integer> computeAsync = () -> {
             return CompletableFuture
                     .supplyAsync(() -> compute.get())
