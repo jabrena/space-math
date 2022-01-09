@@ -11,6 +11,7 @@ import java.time.Instant;
 import java.util.Objects;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.TimeUnit;
+import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
@@ -32,18 +33,21 @@ public class Problem20220109 {
             return (counter == 20) ? true : false;
         };
 
+        Function<Integer, Integer> toDigitSize = number -> String.valueOf(number).length();
+
         Supplier<Integer> compute = () -> {
             return Stream.iterate(1, i -> i + 1) //Infinite Stream
+                .parallel()
                 .filter(isDivisible_1_to_20)
                 .limit(1)
                 .peek(System.out::println)
-                .map(String::valueOf)
-                .map(String::length)
-                .findAny()
+                .map(toDigitSize)
+                .findFirst()
                 .orElseThrow();
         };
 
-        //Protect computation against infinite scenarios with Timeout support
+        //Defensive coding using Timeout handling
+        //Stream API doesn´t have timeout support
         Supplier<Integer> computeAsync = () -> {
             return CompletableFuture
                     .supplyAsync(() -> compute.get())
@@ -55,6 +59,8 @@ public class Problem20220109 {
                         return response;
                     }).join();
         };
+
+        System.out.println("Number of CPU Cores: " + Runtime.getRuntime().availableProcessors());
 
         Instant start = Instant.now();
 
