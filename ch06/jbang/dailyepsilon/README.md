@@ -4,6 +4,14 @@ In this folder, I will try to solve Math problems from:
 
 - https://twitter.com/Daily_Epsilon
 
+## 2022/01/09
+
+![](20220109.png)
+
+```
+jbang Problem20220109.java
+```
+
 ## 2022/01/06
 
 ![](20220106.png)
