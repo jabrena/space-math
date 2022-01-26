@@ -1,0 +1,3 @@
+# Math problems with Jbang
+
+image:20211230.png[ScreenShot]
