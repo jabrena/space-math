@@ -43,6 +43,7 @@ The repository is organized in the chapters:
 - [Chapter 8](ch08/): Analyzing data from Excel
 
 [![](docs/images/ch08_1.png)](ch08/C08E01.py)
+![](docs/images/ch08_2.png)
 
 - [Chapter 9](ch09/): Great Physics in the history
 - [Chapter 10](ch10/): Branches of physics

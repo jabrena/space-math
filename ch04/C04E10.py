@@ -23,10 +23,10 @@ def getPrimeList(limit):
         else:
             if (num > limit):
                 break
-            print(num)
+            # print(num)
             primeList.append(num)
 
-    print(primeList)
+    # print(primeList)
     return primeList
 
 
@@ -38,4 +38,5 @@ def problem(limit):
 # Asserts
 print(getPrimeList(10) == list((2, 3, 5, 7)))
 print(problem(10) == 17)
-# print(problem(2000000) == 142913828922) #Verified #Computational issues for TI-84
+# Verified #Computational issues for TI-84
+print(problem(2000000) == 142913828922)
