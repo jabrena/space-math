@@ -40,6 +40,22 @@ maxX is the maximum value, as returned by max(
 
 ## 16/03/2022
 
+**Preguntas de la clase anterior:**
+
+```
+⎯x  is the mean (average) of the elements, as returned by mean(
+Σx is the sum of the elements, as returned by sum(
+Σx² is the sum of the squares of the elements
+Sx is the sample standard deviation, as returned by stdDev(
+σx is population standard deviation
+n is the number of elements in the list, as returned by dim(
+minX is the minimum value, as returned by min(
+Q1 is the first quartile
+Med is the median, as returned by median(
+Q3 is the third quartile
+maxX is the maximum value, as returned by max(
+```
+
 **Challenge:**
 
 Crear un programa que leyendo el sensor de temperatura, guarde los valores
