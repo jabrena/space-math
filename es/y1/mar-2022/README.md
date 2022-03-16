@@ -1,6 +1,8 @@
 # Marzo 2022
 
-## Analisis de datos en TI-84
+## 13/03/2022
+
+### Analisis de datos en TI-84
 
 - https://education.ti.com/html/webhelp/EG_TI84PlusCE/EN/Subsystems/EG_84SmartVCE_SW/Content/EG_84CE_SmartView/M_DataImport/DI_Data_Import_Files.HTML
 - stat > edit
@@ -21,7 +23,7 @@ Q3 is the third quartile
 maxX is the maximum value, as returned by max(
 ```
 
-# Arduino
+### Arduino
 
 - https://seeeddoc.github.io/Grove-Light_Sensor_v1.2/
 - https://wiki.seeedstudio.com/Grove-Buzzer/
@@ -30,3 +32,18 @@ maxX is the maximum value, as returned by max(
 - https://www.mouser.com/catalog/specsheets/Seeed_101020023.pdf
 - https://github.com/mobizt/Firebase-Arduino-WiFiNINA
 - https://seeeddoc.github.io/Grove-Temperature_Sensor_V1.2/
+
+### Preguntas
+
+- https://en.wikipedia.org/wiki/Histogram
+- https://en.wikipedia.org/wiki/Box_plot
+
+## 16/03/2022
+
+**Challenge:**
+
+Crear un programa que leyendo el sensor de temperatura, guarde los valores
+via terminal y se analicen como 1 VAR Statistics
+
+- https://seeeddoc.github.io/Grove-Temperature_Sensor_V1.2/
+- https://education.ti.com/en/customer-support/knowledge-base/ti-83-84-plus-family/product-usage/11927
