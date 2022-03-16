@@ -32,6 +32,8 @@ maxX is the maximum value, as returned by max(
 - https://www.mouser.com/catalog/specsheets/Seeed_101020023.pdf
 - https://github.com/mobizt/Firebase-Arduino-WiFiNINA
 - https://seeeddoc.github.io/Grove-Temperature_Sensor_V1.2/
+- https://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/
+- https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor/blob/master/README.md
 
 ### Preguntas
 
@@ -55,6 +57,9 @@ Med is the median, as returned by median(
 Q3 is the third quartile
 maxX is the maximum value, as returned by max(
 ```
+
+- https://en.wikipedia.org/wiki/Box_plot
+- https://en.wikipedia.org/wiki/Histogram
 
 **Challenge:**
 
